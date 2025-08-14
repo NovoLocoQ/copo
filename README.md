@@ -15,3 +15,7 @@ Frontend: React
 Backend Automation: n8n workflows for PDF parsing, text extraction, and Q&A generation
 
 Other Tools:  Openrouter API, REST APIs
+
+# N8N Workflow
+
+<img width="1381" height="681" alt="Screenshot 2025-08-14 135207" src="https://github.com/user-attachments/assets/eb8d7644-cef4-4818-bb23-7272e692dede" />
