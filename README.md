@@ -7,10 +7,6 @@ PDF Upload – Users can upload their study materials in PDF format.
 
 Automatic Flashcard Creation – n8n processes the PDF, extracts text, and converts it into question-answer flashcards.
 
-Dynamic Display – React renders the flashcards in a clean, responsive interface.
-
-Interactive Learning – Flip cards to reveal answers, shuffle, or review.
-
 Seamless Integration – The frontend communicates with n8n’s webhook-based workflows for smooth data processing.
 # Tech Stack
 
